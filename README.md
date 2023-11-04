@@ -38,6 +38,11 @@ If you find something interesting related to K8s, container technology, DevOps, 
 
 - [Gitopsbook Repo](https://github.com/gitopsbook/resources): A repo with examples from the Gitops & Kubernetes book ()
 
+## Videos:
+
+- [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]
+  ](https://youtu.be/X48VuDVv0do?si=dTQdG-9DVqsOyuQo)
+
 ## Books
 
 - [GitOps and Kubernetes: Continuous Deployment with Argo CD, Jenkins X, and Flux](https://a.co/d/hGZ1JvC)
